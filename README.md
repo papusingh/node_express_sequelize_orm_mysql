@@ -1,0 +1,2 @@
+# node_express_sequelize_orm_mysql
+sample project using node_express_mysql_sequelize_orm.
